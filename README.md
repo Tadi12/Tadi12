@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Tadi12!
 
- Software Engineering student passionate about building websites and web apps.  
+am Software Engineering student and passionate about building websites and web apps.  
 I love crafting beautiful and functional user experiences using modern web technologies—and exploring the power of C++.
 
  🚀 About Me
