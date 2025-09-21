@@ -1,6 +1,6 @@
 
 
-👋 Hi, I’m Tadi12!
+👋 Hi, I’m Tadios!
 
 am Software Engineering student and passionate about building websites and web apps.  
 I love crafting beautiful and functional user experiences using modern web technologies—and exploring the power of C++.
@@ -15,7 +15,7 @@ I love crafting beautiful and functional user experiences using modern web techn
 
  📌 Featured Projects
 
-- [Blog Platform](https://github.com/Tadi12/blog) – My personal blog site.
+- [Blog Platform](https://github.com/Tadi12/blog) – My blog site.
 - [Java Project](https://github.com/Tadi12/java_project) – Exploring Java and OOP concepts.
 - Landing Websites – Designed and built several engaging landing pages.
 
