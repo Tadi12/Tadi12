@@ -21,7 +21,7 @@ I love crafting beautiful and functional user experiences using modern web techn
 
  💬 Connect with Me
 
-- 📧 Email: [1toughmeme@gmail.com](mailto:1toughmeme@gmail.com)
+- 📧 Email: [1toughmeme@gmail.com](mailto:tadiosmisganaw@gmail.com)
 
 “Passionate about building websites and web apps.”
 
