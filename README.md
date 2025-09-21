@@ -15,7 +15,7 @@ I love crafting beautiful and functional user experiences using modern web techn
 
  📌 Featured Projects
 
-- [Blog Platform](https://github.com/Tadi12/blog) – My blog site.
+- [Blog Platform](https://github.com/Tadi12/blogs) – My blog site.
 - [Java Project](https://github.com/Tadi12/java_project) – Exploring Java and OOP concepts.
 - Landing Websites – Designed and built several engaging landing pages.
 
