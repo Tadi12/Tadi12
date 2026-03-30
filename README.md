@@ -1,29 +1,25 @@
 
-
-👋 Hi, I’m Tadios!
-
-am Software Engineering student and passionate about building websites and web apps.  
-I love crafting beautiful and functional user experiences using modern web technologies—and exploring the power of C++.
-
- 🚀 About Me
-
-- 🧑‍💻 I specialize in **HTML, CSS, and JavaScript** for web development.
-- 💡 I enjoy building landing websites and experimenting with new design ideas.
-- 🤖 I love working with **C++** for deeper programming challenges.
-- 🌱 Always learning and improving my skills!
+# 💫 About Me:
+🔭 I’m currently working on my self<br>🌱 I’m currently learning next js<br>
 
 
- 📌 Featured Projects
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tadi12 &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tadi12 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadi12 &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- [Blog Platform](https://github.com/Tadi12/blogs) – My blog site.
-- [Java Project](https://github.com/Tadi12/java_project) – Exploring Java and OOP concepts.
-- Landing Websites – Designed and built several engaging landing pages.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tadi12 &theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
- 💬 Connect with Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📧 Email: [1toughmeme@gmail.com](mailto:tadiosmisganaw@gmail.com)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tadi12 &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-“Passionate about building websites and web apps.”
+---
+[![](https://visitcount.itsvg.in/api?id=Tadi12 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
