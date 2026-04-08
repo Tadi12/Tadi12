@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on my self<br>🌱
+🔭 I’m currently working on my self<br>
 
 
 # 💻 Tech Stack:
